@@ -1,0 +1,8 @@
+[gd_resource type="NativeScript" load_steps=2 format=2]
+
+[ext_resource path="res://Scripts/utils.gdnlib" type="GDNativeLibrary" id=1]
+
+[resource]
+resource_name = "Caption"
+class_name = "Caption"
+library = ExtResource( 1 )
